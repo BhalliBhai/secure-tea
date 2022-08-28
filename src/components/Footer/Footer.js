@@ -8,8 +8,8 @@ class Footer extends Component {
         <Container fluid>
           <nav>
             <p className="copyright text-center ">
-              © {new Date().getFullYear()}{" "}
-              <a href="/">Secure Tea</a>
+              © {new Date().getFullYear()}{" "} Powered by
+              <a href="mailto:bhalli0006@gmail.com"> Bhalli</a>
             </p>
           </nav>
         </Container>
